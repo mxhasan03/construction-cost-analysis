@@ -1,0 +1,14 @@
+Cost_Code ,Category,Description
+1000,Site Work,"Excavation, grading, utilities, fencing"
+2000,Concrete,"Foundations, slabs, columns, retaining walls"
+3000,Steel & Structure,"Structural steel, decking, erection"
+4000,Masonry,"Block, brick, stone, mortar"
+5000,Carpentry & Millwork,"Framing, finish carpentry, cabinetry"
+6000,Roofing & Waterproofing,"Roof systems, membranes, insulation"
+7000,MEP - Mechanical,"HVAC, ductwork, equipment"
+8000,MEP - Electrical,"Wiring, panels, lighting, fire alarm"
+9000,MEP - Plumbing,"Piping, fixtures, fire suppression"
+10000,Finishes,"Drywall, flooring, painting, tile"
+11000,Specialties,"Signage, lockers, toilet partitions"
+12000,General Conditions,"Supervision, trailers, insurance, permits"
+13000,Contingency,Owner/contractor contingency reserve

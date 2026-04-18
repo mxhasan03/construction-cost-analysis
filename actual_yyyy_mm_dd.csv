@@ -1,0 +1,63 @@
+Invoice ID,Invoice Date,Project ID,Vendor ID,Description,Cost Code,Category,Invoice Amount,Payment Status
+INV-001,2023-02-10,P001,V001,Mobilization & Site Clearing,1000,Site Work,48000,Paid
+INV-002,2023-03-15,P001,V003,Foundation Concrete Pour Phase 1,2000,Concrete,145000,Paid
+INV-003,2023-04-20,P001,V002,Structural Steel Delivery & Erection,3000,Steel & Structure,310000,Paid
+INV-004,2023-05-18,P001,V004,HVAC Rough-In Phase 1,7000,MEP - Mechanical,185000,Paid
+INV-005,2023-06-22,P001,V005,Electrical Rough-In,8000,MEP - Electrical,162000,Paid
+INV-006,2023-07-14,P001,V006,Plumbing Rough-In,9000,MEP - Plumbing,98000,Paid
+INV-007,2023-08-30,P001,V003,Concrete Slab Level 2-4,2000,Concrete,210000,Paid
+INV-008,2023-09-15,P001,V002,Steel Erection Phase 2,3000,Steel & Structure,285000,Paid
+INV-009,2023-10-20,P001,V004,HVAC Equipment Installation,7000,MEP - Mechanical,198000,Paid
+INV-010,2023-11-18,P001,V005,Electrical Fixtures & Panels,8000,MEP - Electrical,175000,Paid
+INV-011,2023-12-10,P001,V008,Drywall & Painting Phase 1,10000,Finishes,92000,Paid
+INV-012,2024-01-15,P001,V008,Flooring & Tile Work,10000,Finishes,145000,Paid
+INV-013,2024-02-20,P001,V010,Site Supervision Jan-Feb,12000,General Conditions,58000,Paid
+INV-014,2023-04-05,P002,V009,Millwork & Cabinetry Phase 1,5000,Carpentry & Millwork,125000,Paid
+INV-015,2023-05-18,P002,V004,HVAC Replacement Units,7000,MEP - Mechanical,198000,Paid
+INV-016,2023-06-30,P002,V005,Electrical Upgrades,8000,MEP - Electrical,142000,Paid
+INV-017,2023-08-15,P002,V008,Interior Finishes Phase 1,10000,Finishes,195000,Paid
+INV-018,2023-10-20,P002,V008,Interior Finishes Phase 2,10000,Finishes,210000,Paid
+INV-019,2023-12-01,P002,V010,General Conditions Q4,12000,General Conditions,68000,Paid
+INV-020,2022-10-15,P003,V001,Site Preparation,1000,Site Work,62000,Paid
+INV-021,2022-11-20,P003,V003,Foundation Work,2000,Concrete,185000,Paid
+INV-022,2023-01-10,P003,V009,Framing & Rough Carpentry,5000,Carpentry & Millwork,198000,Paid
+INV-023,2023-03-15,P003,V007,Roofing System,6000,Roofing & Waterproofing,158000,Paid
+INV-024,2023-05-20,P003,V005,Electrical Final,8000,MEP - Electrical,192000,Paid
+INV-025,2023-08-10,P003,V008,Finishes - All Rooms,10000,Finishes,495000,Paid
+INV-026,2023-10-30,P003,V010,General Conditions Final,12000,General Conditions,124000,Paid
+INV-027,2023-07-15,P004,V001,Bridge Demolition & Prep,1000,Site Work,285000,Paid
+INV-028,2023-08-20,P004,V003,Concrete Abutments,2000,Concrete,420000,Paid
+INV-029,2023-10-05,P004,V002,Steel Girder Fabrication & Install,3000,Steel & Structure,780000,Paid
+INV-030,2023-12-15,P004,V011,Masonry Repairs,4000,Masonry,195000,Paid
+INV-031,2024-02-20,P004,V003,Deck Concrete Pour,2000,Concrete,380000,Paid
+INV-032,2024-03-10,P004,V002,Steel Railing & Barriers,3000,Steel & Structure,520000,Paid
+INV-033,2023-03-20,P005,V003,Foundation Slab,2000,Concrete,132000,Paid
+INV-034,2023-04-25,P005,V009,Interior Framing,5000,Carpentry & Millwork,158000,Paid
+INV-035,2023-06-10,P005,V004,HVAC System,7000,MEP - Mechanical,182000,Paid
+INV-036,2023-07-20,P005,V005,Electrical Install,8000,MEP - Electrical,148000,Paid
+INV-037,2023-09-15,P005,V008,Finishes Phase 1,10000,Finishes,115000,Paid
+INV-038,2023-11-20,P005,V008,Finishes Phase 2,10000,Finishes,98000,Paid
+INV-039,2022-12-01,P006,V001,Site Grading & Utilities,1000,Site Work,298000,Paid
+INV-040,2023-01-15,P006,V003,Concrete Floors & Footings,2000,Concrete,462000,Paid
+INV-041,2023-03-10,P006,V002,Pre-Engineered Steel Building,3000,Steel & Structure,875000,Paid
+INV-042,2023-05-20,P006,V004,Mechanical Systems,7000,MEP - Mechanical,398000,Paid
+INV-043,2023-07-15,P006,V005,Electrical & Lighting,8000,MEP - Electrical,342000,Paid
+INV-044,2023-10-01,P006,V010,General Conditions Final,12000,General Conditions,248000,Paid
+INV-045,2023-09-10,P007,V001,Site Mobilization & Excavation,1000,Site Work,325000,Paid
+INV-046,2023-10-15,P007,V003,Foundation Concrete Phase 1,2000,Concrete,485000,Paid
+INV-047,2023-11-20,P007,V002,Structural Steel Phase 1,3000,Steel & Structure,720000,Paid
+INV-048,2024-01-10,P007,V003,Concrete Podium Level,2000,Concrete,390000,Paid
+INV-049,2024-02-15,P007,V002,Steel Tower Erection,3000,Steel & Structure,680000,Paid
+INV-050,2024-03-20,P007,V004,HVAC Rough-In,7000,MEP - Mechanical,285000,Paid
+INV-051,2023-05-01,P008,V003,Foundation & Slab,2000,Concrete,195000,Paid
+INV-052,2023-06-15,P008,V009,Framing Addition,5000,Carpentry & Millwork,228000,Paid
+INV-053,2023-08-10,P008,V004,HVAC Expansion,7000,MEP - Mechanical,212000,Paid
+INV-054,2023-09-25,P008,V005,Electrical Upgrade,8000,MEP - Electrical,188000,Paid
+INV-055,2023-11-15,P008,V008,Interior Finishes,10000,Finishes,295000,Paid
+INV-056,2024-01-20,P008,V010,General Conditions,12000,General Conditions,118000,Pending
+INV-057,2024-02-15,P001,V006,Plumbing Fixtures Final,9000,MEP - Plumbing,115000,Pending
+INV-058,2024-03-01,P004,V010,General Conditions Q1 2024,12000,General Conditions,125000,Pending
+INV-059,2024-03-15,P007,V005,Electrical Phase 1,8000,MEP - Electrical,265000,Pending
+INV-060,2024-03-25,P002,V004,HVAC Final Balance,7000,MEP - Mechanical,168000,Pending
+INV-061,2024-03-28,P001,V008,Touch-up Painting,10000,Finishes,12000,Paid
+INV-062,2024-03-30,P004,V001,Misc Site Work,1000,Site Work,18500,Paid
