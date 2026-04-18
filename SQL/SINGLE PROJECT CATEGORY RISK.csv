@@ -1,0 +1,8 @@
+Project_ID,Category,total_spend,total_approved_budget,variance,status
+P008,"Carpentry & Millwork",228000.00,210000.00,-18000.00,"Over Budget"
+P008,"MEP - Mechanical",212000.00,195000.00,-17000.00,"Over Budget"
+P008,Finishes,295000.00,280000.00,-15000.00,"Over Budget"
+P008,"MEP - Electrical",188000.00,175000.00,-13000.00,"Over Budget"
+P008,Concrete,195000.00,185000.00,-10000.00,"Over Budget"
+P008,"General Conditions",118000.00,115000.00,-3000.00,"Over Budget"
+P008,Contingency,0.00,95000.00,95000.00,"On Track"
