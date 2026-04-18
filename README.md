@@ -18,7 +18,8 @@ This project analyzes construction project costs by comparing approved budgets a
 - `dashboard/` → visualization and screenshot
 
 ## 📈 Dashboard
-![Dashboard](dashboard/dashboard.png)
+<img width="646" height="850" alt="Screenshot 2026-04-17 at 10 24 39 PM 2" src="https://github.com/user-attachments/assets/dd9e1030-a0b8-4fcf-9692-6f4c4a8e46ed" />
+
 
 ## 🔍 Analysis Performed
 - Project-level variance analysis
