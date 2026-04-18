@@ -1,0 +1,9 @@
+Project_ID,Project_Name,Client,Start_Date,End_Date,Contract_Value,Project_Manager,Status
+P001,Riverside Commercial Complex,Horizon Realty Group,2023-01-15,2024-06-30,4850000,Marcus Thompson,Active
+P002,Midtown Office Tower Renovation,CityCore Partners,2023-03-01,2024-03-31,2100000,Diane Chen,Active
+P003,Sunset Ridge Residential,Parkview Development,2022-09-01,2023-12-31,1750000,James Okafor,Completed
+P004,Harbor Bridge Rehabilitation,NYC Dept of Transport,2023-06-01,2025-01-31,6300000,Sarah Kim,Active
+P005,Eastside Community Center,City of New York,2023-02-15,2024-02-28,980000,Marcus Thompson,Active
+P006,Greenfield Industrial Park,Apex Industrial LLC,2022-11-01,2023-11-30,3200000,Diane Chen,Completed
+P007,Northgate Mixed-Use Development,Northgate Realty,2023-08-01,2025-06-30,7450000,James Okafor,Active
+P008,Westview School Expansion,NYC Dept of Education,2023-04-01,2024-04-30,1450000,Sarah Kim,Active
