@@ -9,6 +9,7 @@ This project analyzes construction project costs by comparing approved budgets a
 - Several categories are classified as **At Risk** or **Over Budget**.
 
 ## 🛠️ Tools Used
+- Excel
 - SQL (MySQL)
 - Tableau
 
