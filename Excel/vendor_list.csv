@@ -1,0 +1,13 @@
+Vendor_ID,Vendor_Name,Trade,Payment_Terms,Contact_Email
+V001,Atlas Excavation LLC,Site Work,Net 30,billing@atlasexcav.com
+V002,SteelPro Fabricators,Steel & Structure,Net 45,ar@steelpro.com
+V003,Concrete Kings Inc,Concrete,Net 30,invoices@concretekings.com
+V004,Apex Mechanical Systems,MEP - Mechanical,Net 45,ap@apexmech.com
+V005,City Electric Contractors,MEP - Electrical,Net 30,billing@cityelectric.com
+V006,Summit Plumbing Co,MEP - Plumbing,Net 30,ar@summitplumbing.com
+V007,ProRoof Solutions,Roofing & Waterproofing,Net 45,finance@proroof.com
+V008,Finish Line Interiors,Finishes,Net 30,billing@finishline.com
+V009,MasterBuild Carpentry,Carpentry & Millwork,Net 30,ap@masterbuild.com
+V010,General Supply Depot,General Conditions,Net 15,orders@gensupply.com
+V011,Mason & Sons Masonry,Masonry,Net 30,invoices@masonandsons.com
+V012,Coastal Waterproofing,Roofing & Waterproofing,Net 45,billing@coastalwp.com

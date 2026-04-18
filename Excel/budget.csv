@@ -1,0 +1,60 @@
+Project ID,Project Name,Cost Code,Category,Budget Amount,Change Orders
+P001,Riverside Commercial Complex,1000,Site Work,185000,12000
+P001,Riverside Commercial Complex,2000,Concrete,620000,0
+P001,Riverside Commercial Complex,3000,Steel & Structure,890000,35000
+P001,Riverside Commercial Complex,7000,MEP - Mechanical,540000,0
+P001,Riverside Commercial Complex,8000,MEP - Electrical,480000,18000
+P001,Riverside Commercial Complex,9000,MEP - Plumbing,310000,0
+P001,Riverside Commercial Complex,10000,Finishes,420000,0
+P001,Riverside Commercial Complex,12000,General Conditions,295000,0
+P001,Riverside Commercial Complex,13000,Contingency,110000,0
+P002,Midtown Office Tower Renovation,5000,Carpentry & Millwork,280000,0
+P002,Midtown Office Tower Renovation,7000,MEP - Mechanical,340000,25000
+P002,Midtown Office Tower Renovation,8000,MEP - Electrical,290000,0
+P002,Midtown Office Tower Renovation,10000,Finishes,510000,0
+P002,Midtown Office Tower Renovation,12000,General Conditions,145000,0
+P002,Midtown Office Tower Renovation,13000,Contingency,105000,0
+P003,Sunset Ridge Residential,1000,Site Work,95000,0
+P003,Sunset Ridge Residential,2000,Concrete,210000,0
+P003,Sunset Ridge Residential,5000,Carpentry & Millwork,320000,15000
+P003,Sunset Ridge Residential,6000,Roofing & Waterproofing,145000,0
+P003,Sunset Ridge Residential,8000,MEP - Electrical,185000,0
+P003,Sunset Ridge Residential,10000,Finishes,480000,0
+P003,Sunset Ridge Residential,12000,General Conditions,120000,0
+P003,Sunset Ridge Residential,13000,Contingency,85000,0
+P004,Harbor Bridge Rehabilitation,1000,Site Work,420000,65000
+P004,Harbor Bridge Rehabilitation,2000,Concrete,1100000,80000
+P004,Harbor Bridge Rehabilitation,3000,Steel & Structure,1850000,120000
+P004,Harbor Bridge Rehabilitation,4000,Masonry,380000,0
+P004,Harbor Bridge Rehabilitation,12000,General Conditions,480000,0
+P004,Harbor Bridge Rehabilitation,13000,Contingency,380000,0
+P005,Eastside Community Center,2000,Concrete,125000,0
+P005,Eastside Community Center,5000,Carpentry & Millwork,145000,0
+P005,Eastside Community Center,7000,MEP - Mechanical,165000,0
+P005,Eastside Community Center,8000,MEP - Electrical,135000,0
+P005,Eastside Community Center,10000,Finishes,195000,10000
+P005,Eastside Community Center,12000,General Conditions,95000,0
+P005,Eastside Community Center,13000,Contingency,55000,0
+P006,Greenfield Industrial Park,1000,Site Work,310000,0
+P006,Greenfield Industrial Park,2000,Concrete,480000,0
+P006,Greenfield Industrial Park,3000,Steel & Structure,920000,45000
+P006,Greenfield Industrial Park,7000,MEP - Mechanical,420000,0
+P006,Greenfield Industrial Park,8000,MEP - Electrical,360000,0
+P006,Greenfield Industrial Park,12000,General Conditions,240000,0
+P006,Greenfield Industrial Park,13000,Contingency,145000,0
+P007,Northgate Mixed-Use Development,1000,Site Work,580000,0
+P007,Northgate Mixed-Use Development,2000,Concrete,1250000,0
+P007,Northgate Mixed-Use Development,3000,Steel & Structure,1980000,0
+P007,Northgate Mixed-Use Development,7000,MEP - Mechanical,820000,0
+P007,Northgate Mixed-Use Development,8000,MEP - Electrical,710000,0
+P007,Northgate Mixed-Use Development,9000,MEP - Plumbing,480000,0
+P007,Northgate Mixed-Use Development,10000,Finishes,950000,0
+P007,Northgate Mixed-Use Development,12000,General Conditions,480000,0
+P007,Northgate Mixed-Use Development,13000,Contingency,380000,0
+P008,Westview School Expansion,2000,Concrete,185000,0
+P008,westview school expansion,5000,Carpentry & Millwork,210000,0
+P008,Westview School Expansion,7000,MEP - Mechanical,195000,0
+P008,Westview School Expansion,8000,MEP - Electrical,175000,0
+P008,Westview School Expansion,10000,Finishes,280000,0
+P008,Westview School Expansion,12000,General Conditions,115000,0
+P008,Westview School Expansion,13000,Contingency,95000,0
